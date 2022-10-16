@@ -9,4 +9,11 @@
 
 
 
-![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img.png)
+![image](https://github.com/Krishna12345825/Rodewebsite-clone-tailwind/blob/main/imgs/img1.png)
+![image](https://github.com/Krishna12345825/Rodewebsite-clone-tailwind/blob/main/imgs/img2.png)
+![image](https://github.com/Krishna12345825/Rodewebsite-clone-tailwind/blob/main/imgs/img3.png)
+![image](https://github.com/Krishna12345825/Rodewebsite-clone-tailwind/blob/main/imgs/img4.png)
+![image](https://github.com/Krishna12345825/Rodewebsite-clone-tailwind/blob/main/imgs/img5.png)
+![image](https://github.com/Krishna12345825/Rodewebsite-clone-tailwind/blob/main/imgs/img6.png)
+![image](https://github.com/Krishna12345825/Rodewebsite-clone-tailwind/blob/main/imgs/img7.png)
+
