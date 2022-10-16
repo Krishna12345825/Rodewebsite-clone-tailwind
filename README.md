@@ -2,7 +2,7 @@
 ![image](https://img.shields.io/badge/tailwind-rode-blue)
 
 
-## Paytm website clone using tailwind CSS  [live Link](https://rodewebsite-clone-tailwind.netlify.app/)
+## Rode website clone using tailwind CSS  [live Link](https://rodewebsite-clone-tailwind.netlify.app/)
 
 **Name:**   KRISHNA KUMAR YADAV
 
